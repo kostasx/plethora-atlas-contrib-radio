@@ -1,6 +1,6 @@
 {
   "name": "plethora-atlas-contrib-radio",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Radio Streaming for PlethoraAtlas Project",
   "main": "radio.js",
   "author": "kostasx <minaidisk@gmail.com>",

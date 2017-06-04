@@ -12,7 +12,10 @@ radio_stations = {
   "rasta": "http://ais.rastamusic.com/rastamusic.mp3",
   "synth2": "http://stream.radio.co/s98f81d47e/listen",
   "reggae": "http://50.22.212.194:8177/",
-  "dubstep": "http://ice1.somafm.com/dubstep-256-mp3"
+  "dubstep": "http://ice1.somafm.com/dubstep-256-mp3",
+  "ert3": "http://radiostreaming.ert.gr/ert-958fm",
+  "deephouse": "http://77.92.76.134:8525/",
+  "enlefko": "http://206.190.150.92:8301"
 };
 
 RADIO = {
